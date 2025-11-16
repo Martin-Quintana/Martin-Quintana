@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Martín Quintana 👋</h1>
+<h1 align="center">Hola, soy Martín 👋</h1>
 
 <p align="center">
   <strong>Desarrollador Full-Stack | Enfocado en construir software limpio, escalable y de alto rendimiento</strong>
